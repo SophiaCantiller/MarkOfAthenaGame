@@ -1,0 +1,8 @@
+module:mark_of_athena
+com.athena.bases
+com.athena.chapters
+com.athena.helpers
+com.athena.iterables
+com.athena.main
+com.athena.monsters
+com.athena.player

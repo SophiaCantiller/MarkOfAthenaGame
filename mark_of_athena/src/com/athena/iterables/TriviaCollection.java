@@ -41,10 +41,10 @@ public class TriviaCollection {
 		trivias[13] = new Trivia("Who is the god of sleep?", "Hypnos");
 		trivias[14] = new Trivia("Who is the King of underworld and dead?", "Hades");
 		trivias[15] = new Trivia("Which god is responsible for war and bloodshed?", "Ares");
-		trivias[16] = new Trivia("What was Poseidon’s animal?", "Horse");
+		trivias[16] = new Trivia("What was Poseidonâ€™s animal?", "Horse");
 		trivias[17] = new Trivia("In Greek mythology, who was the goddess of the rainbow?", "Rainbow");
-		trivias[18] = new Trivia("What was the Greek hero Achilles’ only vulnerable part?", "Heel");
-		trivias[19] = new Trivia("What ancient Greek city is famous for its oracle?", "Dephi");
+		trivias[18] = new Trivia("What was the Greek hero Achillesâ€™ only vulnerable part?", "Heel");
+		trivias[19] = new Trivia("What ancient Greek city is famous for its oracle?", "Delphi");
 	}
 	
 	/**
